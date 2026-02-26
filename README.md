@@ -1,7 +1,7 @@
 銀行の顧客ターゲティング(SIGNATE提供：https://user.competition.signate.jp/ja/)  
 　顧客の属性情報などから定期預金キャンペーンの反応率を予測  
 1.結果  
-　精度: 79%  
+　スコア: 79%  
 　モデル：AUC  
   
 2.特徴  
