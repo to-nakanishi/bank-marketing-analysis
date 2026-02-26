@@ -20,7 +20,7 @@
 　　よって、削除により実装可能で効果的なモデルに変更  
   
 3.技術  
-  Python, pandas, scikit-learn, XGBoost, LightGBM  
+  python, pandas,seaborn,matplotlib, scikit-learn,
   
 4.ファイル  
 　・データセット: SIGNATE参照  
