@@ -4,7 +4,7 @@
   
 　顧客の属性情報などから定期預金キャンペーンの反応率を予測  
 1.結果  
-　スコア: 79%  
+　AUCスコア: 79%  
 　モデル：LightGBM
   
 2.特徴  
@@ -23,7 +23,7 @@
 　　よって、削除により実装可能で効果的なモデルに変更  
   
 3.技術  
-  python, pandas,seaborn,matplotlib, scikit-learn,
+  python, pandas,seaborn,matplotlib, scikit-learn,LightGBM
   
 4.ファイル  
 　・データセット: SIGNATE参照  
@@ -31,6 +31,6 @@
 　・submission.csv: 提出結果  
    
 5.学び  
-・複数モデルの比較検証
-・ビジネス実装可能性の検討
-・因果推論の重要性（Duration削除）
+・複数モデルの比較検証  
+・ビジネス実装可能性の検討  
+・因果推論の重要性（Duration削除）  
