@@ -1,6 +1,6 @@
 銀行の顧客ターゲティング  
 (SIGNATE提供：[https://user.competition.signate.jp/ja/](https://user.competition.signate.jp/ja/competition/detail/?competition=092375ab3c4a43c18c8277e1fd264aa9))  
-
+※py拡張子のファイルは自動分析にかけるためUPLOADしています。
   
 　顧客の属性情報などから定期預金キャンペーンの反応率を予測  
 1.結果  
